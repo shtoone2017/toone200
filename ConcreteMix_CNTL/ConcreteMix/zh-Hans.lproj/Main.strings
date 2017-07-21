@@ -1,0 +1,48 @@
+
+/* Class = "UITextField"; placeholder = "用户名"; ObjectID = "3Qc-eJ-Sd7"; */
+"3Qc-eJ-Sd7.placeholder" = "用户名";
+
+/* Class = "UITextField"; placeholder = "用户"; ObjectID = "6xZ-nI-GkL"; */
+"6xZ-nI-GkL.placeholder" = "用户";
+
+/* Class = "UITabBarItem"; title = "试验室"; ObjectID = "FUG-UY-1wq"; */
+"FUG-UY-1wq.title" = "试验室";
+
+/* Class = "UIButton"; normalTitle = "登  录"; ObjectID = "J2X-Fd-xbc"; */
+"J2X-Fd-xbc.normalTitle" = "登  录";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "P90-sZ-Bjq"; */
+"P90-sZ-Bjq.placeholder" = "密码";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "PvP-Bx-W3H"; */
+"PvP-Bx-W3H.placeholder" = "密码";
+
+/* Class = "UITabBarItem"; title = "试验室"; ObjectID = "PzX-VR-Rzg"; */
+"PzX-VR-Rzg.title" = "试验室";
+
+/* Class = "UILabel"; text = "拌和站与试验室信息管理系统"; ObjectID = "UEc-Jz-aJc"; */
+"UEc-Jz-aJc.text" = "拌和站与试验室信息管理系统";
+
+/* Class = "UILabel"; text = "拌和站与试验室信息管理系统"; ObjectID = "aEJ-CT-04M"; */
+"aEJ-CT-04M.text" = "拌和站与试验室信息管理系统";
+
+/* Class = "UITabBarItem"; title = "拌和站"; ObjectID = "bpN-9N-1Ly"; */
+"bpN-9N-1Ly.title" = "拌和站";
+
+/* Class = "UITabBarItem"; title = "拌和站"; ObjectID = "btj-nG-KCH"; */
+"btj-nG-KCH.title" = "拌和站";
+
+/* Class = "UITabBarItem"; title = "试验室"; ObjectID = "gl6-wR-eN1"; */
+"gl6-wR-eN1.title" = "试验室";
+
+/* Class = "UITabBarItem"; title = "试验室"; ObjectID = "iIk-rK-cO9"; */
+"iIk-rK-cO9.title" = "试验室";
+
+/* Class = "UITabBarItem"; title = "拌和站"; ObjectID = "jre-ox-gcr"; */
+"jre-ox-gcr.title" = "拌和站";
+
+/* Class = "UITabBarItem"; title = "拌和站"; ObjectID = "l3m-TP-ZG9"; */
+"l3m-TP-ZG9.title" = "拌和站";
+
+/* Class = "UIButton"; normalTitle = "登  录"; ObjectID = "ncD-uB-ah4"; */
+"ncD-uB-ah4.normalTitle" = "登  录";
